@@ -79,12 +79,5 @@ I design and implement real-time systems that integrate **hardware + software + 
 - **Email:** gowtham@example.com  
 - **LinkedIn:** https://www.linkedin.com/in/your-profile
 
----
 
-> If you'd like any of the following, tell me which and I'll generate the code snippet for you:
-> - Minimal corporate/dark-only theme  
-> - Visitor counter (shields.io)  
-> - Animated SVG banner (custom name/logo)  
-> - Static fallback for streak & activity images (to avoid broken images if services are down)  
-> - Project cards with icons and short descriptions
 
