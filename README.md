@@ -12,7 +12,6 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=GowthamB&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
-> **Note:** If you change GitHub username, update `user=GowthamB` in the URL above.
 
 ---
 
